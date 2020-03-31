@@ -1,11 +1,8 @@
-#!/usr/bin/env bash
-
 # Postgres.app postgresql
 export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
 
 # Enable ASDF
 . $(brew --prefix asdf)/asdf.sh
-. $(brew --prefix asdf)/etc/bash_completion.d/asdf.bash
 
 ###########################
 

@@ -1,11 +1,10 @@
 [user]
-	name = Philippe Dionne
-	email = dionne.phil@gmail.com
-	signingkey = 4AA4CC79879FBD44
+	name = Loic Ndjoyi
+	email = loic_ndjoyi@outlook.com
 [github]
-	user = phildionne
+	user = loicndjoyi
 [core]
-	editor = atom --wait
+	editor = code --wait
 	excludesfile = ~/.global_ignore
 [color]
 	diff = auto

@@ -7,18 +7,6 @@ cd & git clone https://github.com/phildionne/dotfiles
 
 *Note:* Starting with Catalina, OSX will use Zsh as its default shell, which you should strongly consider adopting. The following bash-based setup is discouraged.
 
-### Bash
-Install [bash-it](https://github.com/revans/bash-it) and pick useful completions and plugins. Mines are:
-
-#### Aliases
-- General
-
-#### Plugins
-none
-
-#### Completions
-- Defaults
-
 ### Utilities
 
 Use [brew](https://brew.sh/):
